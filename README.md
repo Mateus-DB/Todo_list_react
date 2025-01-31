@@ -49,6 +49,6 @@ Este é um projeto de **To-Do List** desenvolvido utilizando o framework **React
 3. Faça um pull request explicando suas mudanças.
 
 
-Link para o projeto: https://https://mateus-db.github.io/Todo_list_react/
+Link para o projeto: https://mateus-db.github.io/Todo_list_react/
 
 
