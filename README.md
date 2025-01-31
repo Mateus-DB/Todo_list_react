@@ -1,27 +1,51 @@
-# Lista de Tarefas com React
 
-Este é um simples aplicativo de lista de tarefas (To-Do List) desenvolvido com React. Ele permite adicionar, editar, marcar como concluído e excluir tarefas.
+# To-Do List com React
+
+Este é um projeto de **To-Do List** desenvolvido utilizando o framework **React**. Ele permite ao usuário adicionar, editar, marcar como concluído e remover tarefas de uma lista de afazeres.
 
 ## Funcionalidades
 
-- Adicionar novas tarefas.
-- Marcar tarefas como concluídas.
-- Remover tarefas da lista.
-- Armazenar dados localmente (pode ser usando localStorage, por exemplo).
+- **Adicionar Tarefas**: O usuário pode adicionar novas tarefas à lista.
+- **Marcar como Concluído**: O usuário pode marcar as tarefas como concluídas.
+- **Remover Tarefas**: O usuário pode remover tarefas da lista.
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
-- **React**
+- **REACT**
 - **CSS**
-- **Javascript**
-- **HTML** 
+- **HTML**
+- **JAVASCRIPT**
 
 ## Instalação
-
-Para rodar o projeto localmente, siga os passos abaixo:
 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Mateus-DB/Todo_list_react.git
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd nome-do-repositorio
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+4. Inicie o servidor de desenvolvimento:
+
+   ```bash
+   npm start
+   ```
+
+## Como Contribuir
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch com sua feature ou correção de bug.
+3. Faça um pull request explicando suas mudanças.
+
 
