@@ -1,5 +1,5 @@
 
-# To-Do List com React
+# To-Do List 
 
 Este é um projeto de **To-Do List** desenvolvido utilizando o framework **React**. Ele permite ao usuário adicionar, editar, marcar como concluído e remover tarefas de uma lista de afazeres.
 
