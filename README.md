@@ -11,7 +11,7 @@ Este é um projeto de **To-Do List** desenvolvido utilizando o framework **React
 
 ## Tecnologias Utilizadas
 
-- **REACT**
+- **REACT** 
 - **CSS**
 - **HTML**
 - **JAVASCRIPT**
